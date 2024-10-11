@@ -1,6 +1,6 @@
-# pja-rbd-projekt
+# Projekt bazy danych
+## System rezerwacji hotelowych
 
-System rezerwacji hotelowych
 System ma służyć do obsługi rezerwacji, pobytów i płatności w hotelu. Każda rezerwacja poza danymi pokoju i klienta musi również przechowywać informację o obsługującym je pracowniku, dacie zameldowania i wymeldowania oraz o płatności za pobyt. Nie każda rezerwacja kończy się pobytem. Ponadto system powinien przechowywać informację o pokojach ich typach oraz wyposażeniu.
 
 ![erd](./ERD.png)
