@@ -8,9 +8,7 @@ System ma służyć do obsługi rezerwacji, pobytów i płatności w hotelu. Ka�
 Opis plików:
 
 - [ERD.png](./ERD.png) – diagram ERD bazy danych
-
-- [ddl-insert.sql](./ddl-insert.sql) – tworzy tabele zgodnie z diagramem
+- [ddl-create.sql](./ddl-create.sql) – tworzy tabele zgodnie z diagramem
 - [dml-insert.sql](./dml-insert.sql) – wypełnia tabele przykładowymi danymi
-
-- [ddl-select.sql](./ddl-select.sql)– przykładowe zapytania do uprzednio przygotowanej bazy
+- [dql-select.sql](./dql-select.sql)– przykładowe zapytania do uprzednio przygotowanej bazy
 - [drop.sql](./drop.sql)– usuwa wszystkie dane wraz tabelami
